@@ -6,7 +6,7 @@ This app fetches live weather data from the OpenWeatherMap API and dynamically u
 
 ## 🌐 Live Demo
 
-[🔗 View Live Demo](#) <!-- replace # with your deployed link if available -->
+[🔗 View Live Demo](https://weather-app-ten-flame-90.vercel.app/) <!-- replace # with your deployed link if available -->
 
 ## 🚀 Features
 
